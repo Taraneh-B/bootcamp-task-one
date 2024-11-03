@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 900;
+    src: url(/assets/fonts/Vazirmatn-ExtraBold.woff2);
+}
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 700;
+    src: url(/assets/fonts/Vazirmatn-Bold.woff2);
+}
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 400;
+    src: url(/assets/fonts/Vazirmatn-Regular.woff2);
+}
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 300;
+    src: url(/assets/fonts/Vazirmatn-Thin.woff2);
+}
